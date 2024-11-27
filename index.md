@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://huangyumeng.com/yumeng.jpg" class="floatpic">
 
 Here is **Yumeng Huang (黄雨萌)**.<br>
 
